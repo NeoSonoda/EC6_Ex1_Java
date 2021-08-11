@@ -1,1 +1,1 @@
-
+Optei pelo Visual studio code para desenvolver esse projeto, pois tenho mais experiência com essa plataforma devido ao meu trabalho que envolve programação em javasprit com ele, alem de usar a versão mais atual do java
